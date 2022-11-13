@@ -1,0 +1,86 @@
+<body>
+    <h2>Tampil Tabel</h2>
+    <table border="1">
+        <thead>
+        <tr>
+            <th>No</th>
+            <th>Name lengkap</th>
+            <th>No telp</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>1</td>
+            <td>jaya Wijaya</td>
+            <td>0811322323</td>
+         </tr>
+        <tr>
+            <td>2</td>
+            <td>Kusuma Wati</td>
+            <td>08233231323</td>
+         </tr>
+        </tbody>
+    </table>
+</body>
+
+
+    <h2>Tampil Tabel</h2>
+    <table border="1" style="width:60%">
+        <thead>
+        <tr style="background-color: yellow;">
+        <th style="width:5%">No</th>
+        <th style="width:45%">Nama Lengkap</th>
+        <th style="width:10%">No Telp</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td rowspan="2">1</td>
+        <td>Jaya Wijaya</td>
+        <td>08113222323</td>
+    </tr>
+    <tr>
+        <td>Kusuma Wati</td>
+        <td>0823231323</td>
+    </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="2">Rata-rata umur</td>
+            <td>16</td>
+        </tr>
+    </tfoot>
+    </table>
+</body>
+
+
+</head>
+</body>
+    <h2>Tampil Tabel</h2>
+    <table  border="1" style="width:60%">
+        <thead>
+        <tr style="background-color: yellow;">
+            <th style="width: 5%">No</th>
+            <th style="width: 45%">Nama Lengkap</th>
+            <th style="width: 10%">Foto</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td rowspan="2">1</td>
+            <td> ELMIN COSTER</td>
+            <td><img src="logo_labuan_bajo-removebg-preview.png" width="50%" height="50%"></td>
+        </tr>
+        <tr>
+            <td>COSTER ELMIN</td>
+            <td><img src="logo_labuan_bajo-removebg-preview.png" width="50%" height="50%"></td>
+        </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="2">Rata-rata Umur</td>
+                <td>19</td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
